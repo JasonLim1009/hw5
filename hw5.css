@@ -19,6 +19,7 @@ body{
     background-position: center;
     background-size: cover;
     position: relative;
+    padding: ;
 }
 nav{
     display: flex;
@@ -345,6 +346,7 @@ button:hover{
     background-image: url("hw5img/Rectangle 5.png");
     flex-wrap: wrap;
     gap: 1rem;
+    padding: 2%;
 }
 .contact .co iframe{
     flex: 0.5 0 25rem;
